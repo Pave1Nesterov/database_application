@@ -38,7 +38,10 @@
 10. Распределение прав пользователей: предусмотреть не менее двух пользователей с 
 разным набором привилегий. Каждый набор привилегий оформить в виде роли.
 
+![image](https://user-images.githubusercontent.com/95019919/229200885-b6470fce-7d0c-49b2-97d2-899cfcb0fdd6.png)
+![image](https://user-images.githubusercontent.com/95019919/229200894-89b0a073-f5b3-4d55-b304-029f8dbb8dad.png)
 
 
 ## Схема базы данных
 
+![image](https://user-images.githubusercontent.com/95019919/229200855-7b6e94ef-7fe0-4e16-a21a-6dc8b3e4c350.png)
